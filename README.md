@@ -1,4 +1,4 @@
-# MybatisForC-SE
+# MybatisForC#SE
 本程序为C# 代码库，用法与mybatis接近，不存在编写xml自定义语句，减少编程难度。
 ## MybatisForC#SE.QueryWrapper
 QueryWrapper为代码库提供的语句代写工具类通过调用公共属性CMD{get;}
